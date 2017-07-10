@@ -33,6 +33,7 @@ images = [
         "captain/fluentd-elasticsearch:1.23",
         "captain/elasticsearch:cap2.4.4",
         "captain/application:v1.0.0",
+        "captain/hreg:v1.0",
         ]
 
 
