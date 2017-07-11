@@ -20,7 +20,7 @@ images = [
         "captain/hyperkube:v1.6.4",
         "captain/heapster_influxdb:v0.6",
         "captain/heapster_grafana:v4.0.2",
-        "captain/heapster:v1.2.0",
+        "captain/heapster:v1.3.0",
         "captain/kibana:4",
         "captain/node-exporter:v0.14.0",
         "captain/prometheus:v1.6.3",
