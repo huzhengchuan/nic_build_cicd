@@ -36,6 +36,7 @@ function upload_docker_images()
         name=`echo $file | awk -F '.tar' '{print $1}'`
         tag_name="$harborIp""$harbotProject""$name"
         sudo docker tag $image_id $tag_name
+        sudo rm -rf $docker_images_dir/$file
     done
 }
 
