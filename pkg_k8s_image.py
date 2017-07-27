@@ -34,7 +34,7 @@ images = [
         "captain/elasticsearch:cap2.4.4",
         "captain/application:v1.0.0",
         "captain/hreg:v1.0",
-        "captain/kuryr-controller:v1.0.0",
+#        "captain/kuryr-controller:v1.0.0",
         ]
 
 
