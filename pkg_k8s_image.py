@@ -17,7 +17,7 @@ images = [
         "captain/k8s-dns-kube-dns-amd64:1.10.1",
         "captain/k8s-dns-dnsmasq-amd64:1.10.1",
         "captain/k8s-dns-sidecar-amd64:1.10.1",
-        "captain/hyperkube:v1.6.4",
+        "captain/hyperkube:v1.8.2",
         "captain/heapster_influxdb:v0.6",
         "captain/heapster_grafana:v4.0.2",
         "captain/heapster:v1.3.0",
