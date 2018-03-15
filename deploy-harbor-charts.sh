@@ -11,6 +11,8 @@ HARBOR_PACKAGE_MD5SUM="harbor_package.md5sum"
 CHARTS_PACKAGE="charts_package.tar"
 CHARTS_PACKAGE_MD5SUM="charts_package.md5sum"
 
+RELEASE_DIR="/opt/registry-release"
+
 ###Pakcage dir to meet
 #harbor_package.tar
 #    ＼harbor_install
@@ -24,6 +26,7 @@ CHARTS_PACKAGE_MD5SUM="charts_package.md5sum"
 #    ＼charts_install
 #                    ＼chartstorage.tgz
 #charts_package.md5sum
+
 
 
 ###FUNC###
